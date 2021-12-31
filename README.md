@@ -1,3 +1,4 @@
+# ItzNex
 - 👋 Hi, I’m @itznex
 - 👀 I’m interested in computers
 
